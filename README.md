@@ -13,4 +13,5 @@ Actual Documentation of Features:
 - Sounds and music created in Ableton
 - Random generation of Latin words using (cleaned) text file from: https://archive.org/details/laterculivocuml00gradgoog/page/n12/mode/1up
 - Otherwise, it's Pong\!
+  
 \* Game Developer is not responsible for demons or other extraplanar creatures summoned as a consequence of over-zealous Latin invocation.
