@@ -29,3 +29,9 @@ Now armed with a consistent theme and set goal, I worked on making the game juic
 I also purchased a monk costume and cross to wear while playing, not because I needed it but because it was funny and I wanted it.
 
 I'm pretty satisfied with the final product, and more importantly I learned a ton about Unity (and game production as a whole) in the process. I wish I hadn't gotten sick because I wanted more time to inject all the juice I had planned but I'll save those goals for future opportunities. As a whole, I think it's a very unique take on Pong and is surprisingly fun!
+
+<img width="832" alt="Screen Shot 2023-12-13 at 4 06 21 PM" src="https://github.com/zacharyjbaker/Lorem-Ipsum-Pong/assets/37025462/74fb1ad4-5c53-4202-b337-1993c38150e6">
+
+![ezgif com-video-to-gif-converted](https://github.com/zacharyjbaker/Lorem-Ipsum-Pong/assets/37025462/bc7e42bf-b936-4ee4-8bee-2d0eeb34b93f)
+
+
